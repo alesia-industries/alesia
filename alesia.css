@@ -1,0 +1,23 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+html {
+  background: url(img/banner2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  /*font-family: 'Roboto', sans-serif;*/
+}
+
+.center {
+   left: 0;
+   line-height: 200px;
+   margin: auto;
+   margin-top: -100px;
+   position: absolute;
+   top: 50%;
+   width: 100%;
+   text-align: center;
+}​
